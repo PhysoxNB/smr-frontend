@@ -120,6 +120,14 @@
       description:
         "This little script syncs savegames between you and your friends, so you can play the game even when the host isn't online without the need for a dedicated server.",
       link: 'https://satisfactorysync.netlify.app/'
+    },
+    {
+      name: 'SatisFacts',
+      author: 'Physox',
+      logo: 'https://raw.githubusercontent.com/PhysoxNB/SatisFacts/main/assets/icon.svg',
+      description:
+        'Parses Satisfactory save files and generates detailed HTML reports with power grid, production, storage, transport, collectibles, and more. Supports 1.0+ save files.',
+      link: 'https://github.com/PhysoxNB/SatisFacts'
     }
   ];
 </script>
