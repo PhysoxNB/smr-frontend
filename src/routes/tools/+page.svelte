@@ -126,7 +126,7 @@
       author: 'Physox',
       logo: 'https://raw.githubusercontent.com/PhysoxNB/SatisFacts/main/assets/icon.svg',
       description:
-        'Parses Satisfactory save files and generates detailed HTML reports with power grid, production, storage, transport, collectibles, and more. Supports 1.0+ save files.',
+        'Comprehensive Satisfactory save analyzer that generates interactive HTML reports with detailed insights into your factory, including production, power, logistics, transport, storage, bottlenecks, progression, collectibles, and much more.',
       link: 'https://github.com/PhysoxNB/SatisFacts'
     }
   ];
