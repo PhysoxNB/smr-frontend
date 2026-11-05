@@ -126,7 +126,7 @@
       author: 'Physox',
       logo: 'https://raw.githubusercontent.com/PhysoxNB/SatisFacts/main/assets/icon.svg',
       description:
-        'Comprehensive Satisfactory save analyzer that generates interactive HTML reports with detailed insights into your factory, including production, power, logistics, transport, storage, bottlenecks, progression, collectibles, and much more.',
+        'Comprehensive toolkit for analyzing, inspecting, and working with Satisfactory save files, featuring detailed factory insights and a growing collection of useful save tools.',
       link: 'https://github.com/PhysoxNB/SatisFacts'
     }
   ];
